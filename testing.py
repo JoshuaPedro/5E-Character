@@ -1,5 +1,5 @@
 """
-# TODO:  Need to create a set of classes and functions to run a character sheet in 5th ed DnD.
+# TODO:  Need to create a set of classes and functions to run a character sheet in 5e DnD.
 # TODO:  Would be nice to have spell interaction.
 # TODO:  Will need to have persistence.
 # TODO:  Should include a dice roller and display rolls as well as bonuses.
